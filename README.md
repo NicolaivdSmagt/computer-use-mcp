@@ -1,6 +1,6 @@
 # computer-use-mcp
 
-An MCP server that gives AI assistants full macOS desktop control: screenshots, mouse, keyboard, scrolling, and app management. Works with any MCP host — Claude Code, OpenCode, or your own agent.
+An MCP server that gives AI assistants full macOS desktop control: screenshots, mouse, keyboard, scrolling, and app management. Should work with any MCP client - Claude Code, OpenCode, or your own agent.
 
 > **Requires Claude.app** — the server loads two native binaries bundled inside `/Applications/Claude.app`. You don't need to be running Claude Desktop to use this server, but the app must be installed.
 
