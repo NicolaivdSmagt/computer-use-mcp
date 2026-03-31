@@ -1,0 +1,18 @@
+{
+  "name": "computer-use-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for macOS desktop automation — screenshot, mouse, keyboard, and app control",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.0",
+    "zod": "^3.25.76"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["mcp", "computer-use", "macos", "automation", "claude", "opencode"],
+  "license": "MIT"
+}
